@@ -16,16 +16,22 @@ The user input the characteristics that plant have and the system suggests the r
 
 Login Page
 ![Login Page](res/screenshots/image1.png)
+
 Dashboard Page
 ![Login Page](res/screenshots/image2.png)
+
 Wheat Disease Cases Page
 ![Login Page](res/screenshots/image3.png)
+
 Lists of Wheat Disease Page
 ![Login Page](res/screenshots/image4.png)
+
 Lists of Symptoms Page
 ![Login Page](res/screenshots/image5.png)
+
 Form Input New Case Page
 ![Login Page](res/screenshots/image6.png)
+
 Display Conclusion of the disease Page
 ![Login Page](res/screenshots/image7.png)
 
