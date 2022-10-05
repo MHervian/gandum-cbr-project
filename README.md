@@ -14,7 +14,7 @@ The user input the characteristics that plant have and the system suggests the r
 
 ## Screenshot
 
-[Screenshot of Program](screenshot.png)
+![Screenshot of Login](res/screenshots/image1.png)
 
 ## Date Launch
 
