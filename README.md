@@ -14,7 +14,7 @@ The user input the characteristics that plant have and the system suggests the r
 
 ## Screenshot
 
-<img src="/MHervian/gandum-cbr-project/raw/main/res/screenshots/image1.png" alt="Screenshot of Login" style="width: 250px; height: 250px;">
+<img src="https://github.com/MHervian/gandum-cbr-project/res/screenshots/image1.png" alt="Screenshot of Login" style="width: 250px; height: 250px;">
 
 ## Date Launch
 
