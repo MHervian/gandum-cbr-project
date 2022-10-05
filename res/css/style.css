@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+/* Login-page */
+.wallpaper-login {
+    background: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('../img/wheat_wallpaper.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+
+/* Miscellaneous */
+.bg-gray { background-color: #fafafa; }
+.img-header {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+}
+.img-header img {
+    position: absolute;
+    bottom: -190px;
+}
+
+/* Side-navigation */
+.bg-darkblue { background-color: #18324E; }
+.bg-darkblue .nav-item { border-bottom: 2px solid #30649C; }
+.bg-darkblue .nav-link { 
+    color: #8AB1DB;
+    transition: color 0.19s;
+}
+.bg-darkblue .nav-link:hover {
+    color: #d8e5f3;
+}
+
+/* Dashboard-page */
+.bg-blue { background-color: #048ABF; }
+.btn-logout { 
+    color: #fafafa;
+    text-decoration: none;
+}
+.btn-logout:hover { text-decoration: none; }
+.bg-blue h1 { color: #FEFEFE; }
+.circle-img {
+    display: block;
+    margin: auto; 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+/* Form-tambah-kasus */
+.inline-form-group input[type="text"]{
+    border: 1px solid #BBBBBB;
+    border-radius: 3px;
+}
